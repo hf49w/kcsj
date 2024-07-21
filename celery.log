@@ -1,0 +1,5 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Main Django thread has terminated before apps are ready.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\6cuyf\bilibili_backend\templates with glob **/*.
